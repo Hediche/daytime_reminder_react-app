@@ -1,0 +1,18 @@
+.heading {
+  text-align: left;
+  color: blue;
+}
+.greetings {
+  flex: flex;
+  font-family: monospace;
+  font-size: 50px;
+  padding: 50px;
+  text-align: center;
+  color: brown;
+  border-radius: 5px solid burlywood;
+}
+.nowTime {
+  font-size: x-large;
+  color: blueviolet;
+  align-content: flex;
+}
